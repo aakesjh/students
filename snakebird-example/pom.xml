@@ -11,7 +11,7 @@
   	<dependency>
   		<groupId>org.openjfx</groupId>
 		<artifactId>javafx-fxml</artifactId>
-		<version>16-ea+5</version>
+		<version>17.0.2</version>
   	</dependency>
 
 	<!-- JUnit 5 -->
